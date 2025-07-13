@@ -143,7 +143,9 @@ Confusion Matrix:
 ![Confusion Matrix Sample](images/confusionFeature Importance:**
 ![Feature Importance Sample](images/feature_importROC Curve:**
 ![ROC Curve SamplePrecision-Recall Curve:**
-![Precision-Recall Curve Sample 11. Conclusion
+![Precision-Recall Curve Sample 
+
+# 11. Conclusion
 
 This project demonstrates a complete data science workflow for fraud detection, from data cleaning and EDA to advanced machine learning and model interpretation. The resulting model can help financial institutions better detect and prevent fraudulent transactions. Future work may include deploying the model as an API, integrating with real-time transaction data, or experimenting with deep learning methods.
 
